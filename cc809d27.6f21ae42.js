@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[21],{120:function(o){o.exports=JSON.parse('{"allTagsPath":"developer.elastos.org/blog/tags","slug":"hello","name":"hello","count":2,"permalink":"developer.elastos.org/blog/tags/hello"}')}}]);
